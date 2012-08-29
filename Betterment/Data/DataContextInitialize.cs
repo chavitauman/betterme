@@ -8,5 +8,6 @@ namespace Data
 {
    public class DataContextInitialize :DropCreateDatabaseIfModelChanges<DataContext>
     {
+
     }
 }
