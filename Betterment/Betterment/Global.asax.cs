@@ -35,9 +35,6 @@ namespace Betterment
 
             RegisterGlobalFilters(GlobalFilters.Filters);
             RegisterRoutes(RouteTable.Routes);
-
-            //Auto Mapper
-            MappingExtensions.Mapping();
         }
     }
 }
