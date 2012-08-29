@@ -9,7 +9,7 @@ namespace Entities
     [Table("T_DOMAIN_PROP")]
     public class DomainProp:BaseEntity 
     {
-        [Key]
+       [Key]
       public int Id { get; set; }
       public Domains DomainID { get; set; } 
  		[MaxLength(10)]
