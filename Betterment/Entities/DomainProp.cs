@@ -21,3 +21,4 @@ namespace Entities
       public bool PropActive { get; set; }  		
     }
 }
+ //my comment
