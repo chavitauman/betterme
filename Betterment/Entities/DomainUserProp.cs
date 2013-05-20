@@ -18,3 +18,4 @@ namespace Entities
        	public bool PropActive { get; set; }			
     }
 }
+ //commit from user 2
