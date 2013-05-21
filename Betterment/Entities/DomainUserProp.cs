@@ -18,3 +18,5 @@ namespace Entities
        	public bool PropActive { get; set; }			
     }
 }
+ //commit from user 2
+//commit from user 2 again
